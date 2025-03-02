@@ -1,5 +1,3 @@
-# Profile
-
 <h1 align="center">Hi 👋, I'm Khunawut</h1>
 <h3 align="center">A high school student from Thailand</h3>
 
